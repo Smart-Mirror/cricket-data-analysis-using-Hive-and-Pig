@@ -3,7 +3,7 @@ This respository Consist of my mini project on Data analysis Using Apache pig an
 ------------------------------------------------------------------
 
 What is done in this project
--------------------------------------------------------------------
+------------------------------------------------------------------
 Loading unstructured data into Hive
 Processing, transforming, and analyzing data in Pig
 Loading structured data into a different table in Hive using Pig
